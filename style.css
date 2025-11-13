@@ -158,6 +158,29 @@ footer a:hover {
     color: bisque;
 }
 
+@media (min-width: 1px) {
+
+    .container {
+        width: 22em;
+    }
+
+    .main {
+        width: 19em;
+    }
+
+    img {
+        width: 7rem;
+    }
+
+    main button {
+        font-size: 0.8rem;
+    }
+
+    footer p {
+        font-size: 0.7rem;
+    }
+}
+
 @media (min-width: 480px) {
 
     .container {
