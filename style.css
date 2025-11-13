@@ -161,6 +161,10 @@ footer a:hover {
 
 @media (max-width: 479px) {
 
+    body {
+        background-size: inherit;
+    }
+
     .container {
         width: 100em;
     }
