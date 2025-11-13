@@ -10,7 +10,6 @@ html {
 body {
     display: flex;
     align-items: center;
-    height: 100vh;
     width: 100%;
     background-image: url(images/martin-martz-xA4v5VqLATs-unsplash.jpg);
     background-size: cover;
